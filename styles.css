@@ -1088,7 +1088,7 @@ footer { background: transparent; border-top: 1px solid transparent; border-imag
   width: max-content;
   gap: 0;
   padding: 1rem 0;
-  animation: scroll-testimonials 20s linear infinite;
+  animation: scroll-testimonials 8s linear infinite;
   will-change: transform;
 }
 
@@ -1101,11 +1101,11 @@ footer { background: transparent; border-top: 1px solid transparent; border-imag
 }
 
 .testimonial-track.fast {
-  animation-duration: 15s;
+  animation-duration: 6s;
 }
 
 .testimonial-track.slow {
-  animation-duration: 30s;
+  animation-duration: 10s;
 }
 
 .testimonial-card {
@@ -1113,7 +1113,7 @@ footer { background: transparent; border-top: 1px solid transparent; border-imag
   border: 1px solid var(--border-color);
   border-radius: 28px;
   padding: 2.5rem;
-  width: 420px;
+  width: 400px;
   margin-right: 1.5rem;
   display: flex;
   flex-direction: column;
@@ -1188,6 +1188,11 @@ footer { background: transparent; border-top: 1px solid transparent; border-imag
 .category-parent { background: rgba(179, 65, 88, 0.1); color: var(--crimson); }
 
 @keyframes scroll-testimonials {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes scroll-left {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
 }
