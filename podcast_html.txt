@@ -1,0 +1,682 @@
+            <div class="grid-3">
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="Ck2dmM5qQbw">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/Ck2dmM5qQbw/hqdefault.jpg" alt="Podcast Episode 1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 1</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="q2coUQ95Pi4">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/q2coUQ95Pi4/hqdefault.jpg" alt="Podcast Episode 2" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 2</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="9v5gyQizja0">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/9v5gyQizja0/hqdefault.jpg" alt="Podcast Episode 3" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 3</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="y3XkoYWrm-k">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/y3XkoYWrm-k/hqdefault.jpg" alt="Podcast Episode 4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 4</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="ufrAwI69vkQ">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/ufrAwI69vkQ/hqdefault.jpg" alt="Podcast Episode 5" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 5</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="_S_0MgSbzcA">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/_S_0MgSbzcA/hqdefault.jpg" alt="Podcast Episode 6" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 6</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="4ntxAugonJc">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/4ntxAugonJc/hqdefault.jpg" alt="Podcast Episode 7" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 7</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="AIR78As4llw">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/AIR78As4llw/hqdefault.jpg" alt="Podcast Episode 8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 8</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="vdd36Zv0PFU">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/vdd36Zv0PFU/hqdefault.jpg" alt="Podcast Episode 9" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 9</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="Ssl3PWmxDNE">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/Ssl3PWmxDNE/hqdefault.jpg" alt="Podcast Episode 10" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 10</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="PnRw4kJChsA">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/PnRw4kJChsA/hqdefault.jpg" alt="Podcast Episode 11" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 11</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="LD5IEDFMzKQ">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/LD5IEDFMzKQ/hqdefault.jpg" alt="Podcast Episode 12" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 12</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="qrPCMZ8l3Ls">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/qrPCMZ8l3Ls/hqdefault.jpg" alt="Podcast Episode 13" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 13</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="QAzwEa6rvYE">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/QAzwEa6rvYE/hqdefault.jpg" alt="Podcast Episode 14" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 14</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="uDbLPgA5FwQ">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/uDbLPgA5FwQ/hqdefault.jpg" alt="Podcast Episode 15" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 15</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="d7OuyapkjxM">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/d7OuyapkjxM/hqdefault.jpg" alt="Podcast Episode 16" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 16</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="0uldNjeiYd8">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/0uldNjeiYd8/hqdefault.jpg" alt="Podcast Episode 17" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 17</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="JnmpPJqs7W4">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/JnmpPJqs7W4/hqdefault.jpg" alt="Podcast Episode 18" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 18</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="eTd20elHtX8">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/eTd20elHtX8/hqdefault.jpg" alt="Podcast Episode 19" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 19</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="8n5WpDHBQaQ">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/8n5WpDHBQaQ/hqdefault.jpg" alt="Podcast Episode 20" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 20</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="HYNz3bwBN-0">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/HYNz3bwBN-0/hqdefault.jpg" alt="Podcast Episode 21" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 21</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="WH0IP_TGK4Q">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/WH0IP_TGK4Q/hqdefault.jpg" alt="Podcast Episode 22" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 22</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="IA5cVq7_mnU">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/IA5cVq7_mnU/hqdefault.jpg" alt="Podcast Episode 23" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 23</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="80JfnUmTN0c">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/80JfnUmTN0c/hqdefault.jpg" alt="Podcast Episode 24" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 24</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="ejOUS0CR8UU">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/ejOUS0CR8UU/hqdefault.jpg" alt="Podcast Episode 25" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 25</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="lW5kOONfyGs">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/lW5kOONfyGs/hqdefault.jpg" alt="Podcast Episode 26" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 26</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="_VlbI5H_sik">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/_VlbI5H_sik/hqdefault.jpg" alt="Podcast Episode 27" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 27</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="RGSyXtdxi_Y">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/RGSyXtdxi_Y/hqdefault.jpg" alt="Podcast Episode 28" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 28</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="wGIsmKCXfHo">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/wGIsmKCXfHo/hqdefault.jpg" alt="Podcast Episode 29" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 29</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="yHib0dq_TgI">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/yHib0dq_TgI/hqdefault.jpg" alt="Podcast Episode 30" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 30</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="5Zf3WsHjRPI">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/5Zf3WsHjRPI/hqdefault.jpg" alt="Podcast Episode 31" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 31</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="1odKoT0EqHo">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/1odKoT0EqHo/hqdefault.jpg" alt="Podcast Episode 32" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 32</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="NccW-8En6ik">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/NccW-8En6ik/hqdefault.jpg" alt="Podcast Episode 33" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 33</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="X7V2Y4RsbGc">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/X7V2Y4RsbGc/hqdefault.jpg" alt="Podcast Episode 34" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 34</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="jK5zCCCnrDg">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/jK5zCCCnrDg/hqdefault.jpg" alt="Podcast Episode 35" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 35</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="q5Ls6EgAIkA">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/q5Ls6EgAIkA/hqdefault.jpg" alt="Podcast Episode 36" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 36</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="Ods_wkb814w">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/Ods_wkb814w/hqdefault.jpg" alt="Podcast Episode 37" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 37</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="ldUGHBTjPI4">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/ldUGHBTjPI4/hqdefault.jpg" alt="Podcast Episode 38" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 38</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="-cC4GuLZNkk">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/-cC4GuLZNkk/hqdefault.jpg" alt="Podcast Episode 39" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 39</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="d0Eu0gwD1ew">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/d0Eu0gwD1ew/hqdefault.jpg" alt="Podcast Episode 40" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 40</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="7IjKEjiNM6I">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/7IjKEjiNM6I/hqdefault.jpg" alt="Podcast Episode 41" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 41</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="ZmJDkue_Hz8">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/ZmJDkue_Hz8/hqdefault.jpg" alt="Podcast Episode 42" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 42</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="ptFz-eSBcIg">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/ptFz-eSBcIg/hqdefault.jpg" alt="Podcast Episode 43" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 43</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="IEKf_0dyAyE">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/IEKf_0dyAyE/hqdefault.jpg" alt="Podcast Episode 44" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 44</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="yuc1Tq-DvOQ">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/yuc1Tq-DvOQ/hqdefault.jpg" alt="Podcast Episode 45" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 45</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="1ka5IcQWozU">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/1ka5IcQWozU/hqdefault.jpg" alt="Podcast Episode 46" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 46</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="bwKW0V0C8FE">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/bwKW0V0C8FE/hqdefault.jpg" alt="Podcast Episode 47" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 47</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="4WD00uB_Tvo">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/4WD00uB_Tvo/hqdefault.jpg" alt="Podcast Episode 48" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 48</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="N4x-Oo-rGIA">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/N4x-Oo-rGIA/hqdefault.jpg" alt="Podcast Episode 49" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 49</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="4vfGi_b_vUg">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/4vfGi_b_vUg/hqdefault.jpg" alt="Podcast Episode 50" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 50</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="keYxOj3ze4c">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/keYxOj3ze4c/hqdefault.jpg" alt="Podcast Episode 51" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 51</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="_GgY5MaeSMs">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/_GgY5MaeSMs/hqdefault.jpg" alt="Podcast Episode 52" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 52</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="23iP8g3WMlw">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/23iP8g3WMlw/hqdefault.jpg" alt="Podcast Episode 53" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 53</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="PTdyGCElXww">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/PTdyGCElXww/hqdefault.jpg" alt="Podcast Episode 54" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 54</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="MqgUKdV3_7M">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/MqgUKdV3_7M/hqdefault.jpg" alt="Podcast Episode 55" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 55</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="GNvbrb_WGJA">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/GNvbrb_WGJA/hqdefault.jpg" alt="Podcast Episode 56" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 56</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="T6OjPsz0Kz0">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/T6OjPsz0Kz0/hqdefault.jpg" alt="Podcast Episode 57" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 57</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="VSKi9U09Yd4">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/VSKi9U09Yd4/hqdefault.jpg" alt="Podcast Episode 58" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 58</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="ObxdIPh8RD8">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/ObxdIPh8RD8/hqdefault.jpg" alt="Podcast Episode 59" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 59</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="9djRZOrfkg4">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/9djRZOrfkg4/hqdefault.jpg" alt="Podcast Episode 60" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 60</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="DF13AIpK-tY">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/DF13AIpK-tY/hqdefault.jpg" alt="Podcast Episode 61" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 61</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="SnDdvnKHGEc">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/SnDdvnKHGEc/hqdefault.jpg" alt="Podcast Episode 62" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 62</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="fQ1F6sGhwH0">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/fQ1F6sGhwH0/hqdefault.jpg" alt="Podcast Episode 63" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 63</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="0CBZNnrR9rU">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/0CBZNnrR9rU/hqdefault.jpg" alt="Podcast Episode 64" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 64</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="407fVfMFzfs">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/407fVfMFzfs/hqdefault.jpg" alt="Podcast Episode 65" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 65</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="gUJKauNF7Kc">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/gUJKauNF7Kc/hqdefault.jpg" alt="Podcast Episode 66" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 66</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="K9azt3MD9bk">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/K9azt3MD9bk/hqdefault.jpg" alt="Podcast Episode 67" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 67</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+                <a href="#" class="glass-card podcast-card play-video" data-video-id="4WQ06l2wCnY">
+                    <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 12px; overflow: hidden; margin-bottom: 1rem;">
+                        <img src="https://img.youtube.com/vi/4WQ06l2wCnY/hqdefault.jpg" alt="Podcast Episode 68" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.2); display: flex; align-items: center; justify-content: center;">
+                            <i data-lucide="play-circle" style="color: white; width: 48px; height: 48px; opacity: 0.8;"></i>
+                        </div>
+                    </div>
+                    <h3>Podcast Episode 68</h3>
+                    <span>Play Now <i data-lucide="play" style="width: 14px; height: 14px;"></i></span>
+                </a>
+            </div>
