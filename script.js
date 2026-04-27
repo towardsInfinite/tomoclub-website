@@ -606,15 +606,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-
-  // ── Seamless infinite marquee ─────────────────────────────────────────────
-  // Duplicate track children so -50% keyframe always loops perfectly
-  document.querySelectorAll('.testimonial-track').forEach(track => {
-    const items = Array.from(track.children);
-    items.forEach(item => {
-      const clone = item.cloneNode(true);
-      track.appendChild(clone);
-    });
-  });
-
 });
