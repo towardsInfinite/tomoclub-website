@@ -473,7 +473,11 @@ nav {
 }
 
 .dropdown a:hover {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(42, 180, 184, 0.15) !important;
+  color: #FFFFFF !important;
+}
+
+.dropdown a:hover strong {
   color: #FFFFFF !important;
 }
 
