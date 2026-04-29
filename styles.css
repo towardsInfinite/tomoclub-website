@@ -638,6 +638,7 @@ section { padding: 3.5rem 0; position: relative; }
     transform-style: preserve-3d;
 }
 
+.team-container:hover .team-card,
 .team-card.flipped {
     transform: rotateY(180deg);
 }
