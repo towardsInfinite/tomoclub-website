@@ -1188,6 +1188,30 @@ footer { background: transparent; border-top: 1px solid transparent; border-imag
 .category-teacher { background: rgba(253, 198, 45, 0.1); color: var(--gold); }
 .category-parent { background: rgba(179, 65, 88, 0.1); color: var(--crimson); }
 
+/* Quote Cards */
+.quote-card-navy {
+    background: var(--navy);
+    color: white;
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: var(--shadow-md);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+body.dark-theme .quote-card-navy {
+    background: #1E293B; /* Subtle depth in dark mode */
+    color: #F1F5F9;
+    border-color: rgba(255, 255, 255, 0.05);
+}
+
+.quote-card-navy p {
+    color: #CBD5E1 !important; /* Default light gray for quote */
+}
+
+body.dark-theme .quote-card-navy p {
+    color: #94A3B8 !important; /* Muted gray for dark mode readability */
+}
+
 @keyframes scroll-testimonials {
   0% { transform: translateX(0); }
   100% { transform: translateX(-50%); }
