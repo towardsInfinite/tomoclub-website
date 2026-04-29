@@ -45,7 +45,7 @@ const seoData = {
   }
 };
 
-const GOOGLE_SHEET_WEBHOOK = 'https://script.google.com/macros/s/AKfycbwJB4jr4PvwP_VSs3JhFk-wvPHt3VAiTeWk4BSrI-u9NhcrWo6XeBM9icwY8_0XiwVt/exec';
+const GOOGLE_SHEET_WEBHOOK = 'https://script.google.com/macros/s/AKfycbzz2VpoSdbCDsfGo4-3O6KnnjsEHUaMHuCCUN0KsQyBatGz_EMc-xdFC5FnvlKBWb40/exec';
 
 document.addEventListener('DOMContentLoaded', () => {
   // Announcement Banner Logic
